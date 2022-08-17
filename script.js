@@ -14,16 +14,16 @@ function getDayWeekText(diaSemana) {
     case 2:
       diaSemanaTexto = 'Terça-Feira';
       return diaSemanaTexto;
-    case 4:
+    case 3:
       diaSemanaTexto = 'Quarta-Feira';
       return diaSemanaTexto;
-    case 5:
+    case 4:
       diaSemanaTexto = 'Quinta-Feira';
       return diaSemanaTexto;
-    case 6:
+    case 5:
       diaSemanaTexto = 'Sexta-Feira';
       return diaSemanaTexto;
-    case 7:
+    case 6:
       diaSemanaTexto = 'Sabado';
       return diaSemanaTexto;
     default:
