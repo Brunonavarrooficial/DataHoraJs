@@ -1,0 +1,15 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: blue;
+}
+
+h1{
+  display: 	flex;
+  border-radius: 2em;
+  background-color: white;
+  width: 25em;  
+  margin: 25% auto;
+  padding-left: 8em;
+  
+}
